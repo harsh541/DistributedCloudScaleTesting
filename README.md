@@ -1,1 +1,1 @@
-Open README.PDF for instructions.
+Open README.pdf for instructions.
